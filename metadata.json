@@ -1,0 +1,7 @@
+{
+    "name": "reCAPTCHA v3 Invisible",
+    "description": "Protege los formularios de registro y publicación contra bots utilizando la API de Google reCAPTCHA v3.",
+    "version": "1.0",
+    "author": "Monkey 🐒",
+    "load_order": "after_db_init"
+}
